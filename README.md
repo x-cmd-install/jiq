@@ -31,8 +31,8 @@ Overall score: **2.1 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (3/10) — Found 8/24 approved changesets -- score normalized to 3
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Maintained** (0/10) — project is archived
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 929 · **Forks**: 33 · **Open issues**: 27 · **Contributors**: 1
+- **Stars**: 928 · **Forks**: 33 · **Open issues**: 27 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for jiq lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:08:38Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:34:06Z._

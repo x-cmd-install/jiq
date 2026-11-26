@@ -1,0 +1,111 @@
+about:
+  description: "jid on jq - interactive JSON query tool using jq expressions"
+  license: MIT
+  homepage: 
+  head: eca3be1
+  archived: true
+  latestVersion: "v0.7.2"
+  latestRelease: "v0.7.2"
+  latestPrerelease: ""
+  collectedAt: 2026-11-26T09:22:59Z
+timeline:
+  created: 2016-12-03
+  lastCommit: 2023-01-09
+  lastVersion: 2021-08-25
+  lastRelease: 2021-08-25
+  lastPrerelease: 
+popularity:
+  star: 927
+  watcher: 1
+  fork: 33
+  release: 5
+  contributor: 1
+  pullRequest: 10
+  issue: 27
+language:
+  Go: 25104
+  Makefile: 353
+totalBytes: 25457
+recent:
+  last30d:
+    since: 2026-10-27
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-09-27
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-28
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-05-30
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-12-01
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-12-06
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 5
+  mergedPR: 9
+  openPR: 0
+  closedIssue: 10
+  openIssue: 17
+  commit: 105
+---
+path: /home/runner/.x-repo/github.com/fiatjaf/jiq
+collectedAt: 2026-11-26T09:23:00Z
+loc:
+  Go:
+    code: 971
+    comments: 13
+    blanks: 179
+    files: 8
+  Makefile:
+    code: 10
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 72
+    blanks: 36
+    files: 1
+total:
+  code: 985
+  comments: 85
+  blanks: 217
+  files: 10
+---
+
+---
